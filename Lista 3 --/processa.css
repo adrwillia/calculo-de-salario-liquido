@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(240, 218, 189);
+    font: normal 17pt arial;
+    display: flex;
+    flex-direction: column;
+    padding-left: 100px;
+    justify-content: center;
+    color: rgb(65, 62, 62);
+}
+h1{
+    text-align: center;
+}
+
+table{
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    width: 700px;
+    height: 400px;
+    position: absolute;
+    left: 26%;
+}
+
+th, td{
+    border: 
+    1px solid white ;
+    border-radius: 5px;
+}
